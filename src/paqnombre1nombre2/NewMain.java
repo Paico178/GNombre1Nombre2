@@ -20,7 +20,7 @@ public class NewMain {
 
         System.out.println("Por tercera vez, Hola Marce!");
 
-        System.out.println("Cambio realizado por el primer usuario. Por 12 vez, Hola Marce!");
+        System.out.println("Cambio realizado por el primer usuario. Hola Marce!");
     }
 
 }
