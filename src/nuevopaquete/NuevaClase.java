@@ -12,6 +12,8 @@ public class NuevaClase {
 
     public void mostrarMensaje() {
         System.out.println("¡Hola desde NuevaClase!");
+
+        System.out.println("Punto 24. Cambio nuevo hecho por el primer usuario en el trunk.");
     }
 
 }
